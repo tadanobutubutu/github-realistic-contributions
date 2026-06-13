@@ -1,5 +1,12 @@
 # GitHub 真实贡献图生成器
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![PyPI version](https://img.shields.io/pypi/v/github-activity-generator?style=flat-square&logo=pypi&color=green) ![PyPI downloads](https://img.shields.io/pypi/dm/github-activity-generator?style=flat-square&color=brightgreen) ![PyPI license](https://img.shields.io/pypi/l/github-activity-generator?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-2.0.0-blue?style=flat-square)](https://pypi.org/project/github-activity-generator)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/shaozheng0503/github-realistic-contributions.svg)](https://github.com/shaozheng0503/github-realistic-contributions)
